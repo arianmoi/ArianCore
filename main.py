@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-def print_hi():
+def just_changed_it():
     # Use a breakpoint in the code line below to debug your script.
     print('This is core repo')  # Press Ctrl+F8 to toggle the breakpoint.
 
